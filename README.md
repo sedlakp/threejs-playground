@@ -1,2 +1,2 @@
 # Torii gate scene
-https://torii.lowprio.com
+https://torii.pelemi.com
